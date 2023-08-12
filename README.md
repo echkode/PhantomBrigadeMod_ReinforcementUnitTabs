@@ -1,5 +1,7 @@
 **ReinforcementUnitTabs**
 ----
+**This mod is obsolete.** The game has been patched by the publisher so this is no longer a problem.
+
 A library mod for [Phantom Brigade (Alpha)](https://braceyourselfgames.com/phantom-brigade/) which fixes a bug in the combat view where new tabs above the timeline are not created for reinforcement units when they first land.
 
 It is compatible with game version **0.21.0**. All library mods are fragile and susceptible to breakage whenever a new version is released.
